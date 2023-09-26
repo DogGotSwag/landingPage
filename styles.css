@@ -44,5 +44,11 @@ a{
 /* end header links */
 
 .body{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.one,.two,
+.three, .four{
     flex: 1;
 }
