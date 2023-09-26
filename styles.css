@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     margin: 0;
     font-family:Arial, Helvetica, sans-serif;
+    height: 100vh;;
 }
 
 .header{
@@ -33,3 +34,7 @@ a{
 
 /* end header links */
 
+.body{
+    
+    flex: 1;
+}
