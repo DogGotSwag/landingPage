@@ -175,3 +175,17 @@ button{
 /* section three end */
 
 /* section four */
+.four{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 70px;
+}
+
+.blue-container{
+    background: #3882F6;
+    width: 1000px;
+    border-radius: 5px;
+    padding: 30px 60px;
+    
+}
