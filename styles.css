@@ -115,7 +115,7 @@ button{
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    padding-top: 30px;
+    padding: 30px;
     gap: 30px;
 }
 .box-container{
@@ -146,4 +146,28 @@ button{
 
 
 /* section three */
-
+.three{
+    background: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+.container-three{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+.by{
+    color: #1F2937;
+    font-weight: 900;
+    align-self: flex-end;
+    margin-right: 20px;
+    font-size: 25px;
+}
